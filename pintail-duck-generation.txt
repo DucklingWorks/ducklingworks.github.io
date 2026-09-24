@@ -1,0 +1,7 @@
+Generated using the built-in image_gen tool from pintail_logo.png.
+The preview PNG is generated artwork. The BMP is thresholded to true 1-bit
+black and white without dithering. Black represents the printed artwork.
+Final silkscreen suitability depends on the chosen physical size and fab rules.
+
+Prompt:
+Use case: style-transfer. Edit target: supplied Pintail logo. Create only the northern pintail duck as a simplified single-color PCB silkscreen mark, solid black artwork on pure white background. Preserve its left-facing profile, recognizable long elegant curved neck, bill, low floating body and long pointed tail extending right. Remove ALL text, water, reflections, glow and background scene. Retain the characteristic neck stripe and a few broad wing shapes using clean negative space. Bold connected solid shapes, smooth clean outlines, generous gaps, minimal detail; no feather hatching, stippling, dither, gradients, gray shading or tiny isolated flecks. Simplify fine feather details aggressively for small printed size. One duck centered and filling a wide canvas with modest white margin, entirely uncropped. Flat two-color black/white artwork, not a PCB mockup.

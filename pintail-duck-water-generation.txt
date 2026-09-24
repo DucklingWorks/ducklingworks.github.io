@@ -1,0 +1,6 @@
+Generated with the built-in image_gen tool using pintail-duck-preview.png
+as the edit target and pintail_logo.png as the water reference.
+BMP export: alpha composited onto white, thresholded to 1 bit without dithering.
+
+Prompt:
+Use case: precise-object-edit. Image 1 is the edit target, the black and white duck mark. Image 2 is supporting reference for the original water ripples only. Preserve Image 1's duck design, left-facing pose, bill, neck stripe, wing shapes and long pointed tail. Add a restrained nod to the water in Image 2: three to five bold, horizontally elongated, gently curved black ripple shapes beneath and slightly beside the duck, with generous white gaps, a subtle suggestion of reflection directly beneath the breast. Keep ripples visually subordinate, compact, calm and organic, no elaborate scene. Pure solid black artwork on pure white, designed for 1-bit PCB silkscreen. No gray, gradients, texture, halftone, tiny dots, text or border. Keep all duck and water uncropped with white margin. Single finished mark, not a mockup.
